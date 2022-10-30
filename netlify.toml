@@ -6,3 +6,4 @@ command = "make build"
 from = "/*"
 to = "https://playground.vrl.dev"
 status = 301
+force = true
