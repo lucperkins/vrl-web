@@ -4,5 +4,5 @@ command = "make build"
 
 [[redirects]]
 from = "/*"
-to = "/index.html"
-status = 200
+to = "https://playground.vrl.dev"
+status = 301
